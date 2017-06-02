@@ -1,12 +1,13 @@
 # front-end-angularjs-automate-tasks
 
 
-Enclosed in this project, lies a small Java application that expose a 
-REST service that returns a list of People.
+Inside this project lies an application that shows a contact list from a REST service hosted in an Node App.
 
 This service can be reached using the following URL:
 
-    http://localhost:8090/rest/people
+http://localhost:3000/contacts
+
+To run this 
 
 It will return a JSON object. To run the service, you will need to build the application.
 For that, you will need to install Java JDK and Maven.
@@ -14,16 +15,16 @@ For that, you will need to install Java JDK and Maven.
 After you sucessfully installed everything, just open a command and run:
 
 
-    mvn clean package
-    
+mvn clean package
+
 To run, either call Java or run Maven
 
-    java -jar target/people-rest.war
-    
+java -jar target/people-rest.war
+
 or
 
-    mvn spring-boot:run
-    
+mvn spring-boot:run
+
 ## Proposed Exercise
 
 Create an app to present the resulting data from the REST service. The way you present is up to you, as long you follow the premises.
