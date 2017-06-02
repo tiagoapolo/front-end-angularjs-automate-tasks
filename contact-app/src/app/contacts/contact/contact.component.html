@@ -1,0 +1,8 @@
+<div class="inline">
+  <img src="./../../../assets/user.png">  
+    <p class="username">{{contact.name}}</p>
+    <a class="tes" (click)="showDisclosable()" [style.color]="(state == 'inactive' ? '#929292' : '#cc6868')">{{textSlice}}</a>      
+</div>
+<div [@focusPanel]='state' class="disclosable">
+  {{contact.disclosableInfo}}
+</div>  

@@ -1,0 +1,5 @@
+<div class="list-box">
+  <div *ngFor="let contact of contacts; let last = last" [ngClass]="{'divider': !last}" class="list-item">    
+    <app-contact id="appContact" [contact]="contact"></app-contact>
+  </div>
+</div>

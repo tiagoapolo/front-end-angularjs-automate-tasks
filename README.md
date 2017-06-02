@@ -1,5 +1,6 @@
 # front-end-angularjs-automate-tasks
 
+
 Enclosed in this project, lies a small Java application that expose a 
 REST service that returns a list of People.
 
