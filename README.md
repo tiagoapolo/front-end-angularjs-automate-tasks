@@ -41,3 +41,6 @@ npm start
 
 > Now you're all set, running the Contact app at http://localhost:5556 and Contact API at http://localhost:3000/contacts
 
+![alt tag](https://raw.githubusercontent.com/tiagoapolo/front-end-angularjs-automate-tasks/master/app.png)
+
+
