@@ -5,7 +5,7 @@ Inside this project lies an application that shows a contact list from a REST se
 
 ##  To run this application:
 
-First go to /contact-app folder
+First run
 ```
 npm install
 ```
@@ -21,9 +21,9 @@ npm run serve
 
 ##  To run the Contact REST API
 
-Go to /server folder
+Go to /contact-app/server folder
 ```
-cd /server
+cd contact-app/server
 ```
 Then install all packages:
 ```
