@@ -35,5 +35,5 @@ npm start
 ```
 ![alt tag](https://raw.githubusercontent.com/tiagoapolo/front-end-angularjs-automate-tasks/master/node.gif)
 
-Now you're all set, running the Contact app at http://localhost:5556 and Contact API at http://localhost:3000/contacts
+> Now you're all set, running the Contact app at http://localhost:5556 and Contact API at http://localhost:3000/contacts
 
